@@ -1,0 +1,6 @@
+streamlit 
+pyngrok 
+torch 
+torchvision 
+ultralytics 
+opencv-python-headless
